@@ -3,6 +3,8 @@ import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 import { FcApproval, FcBarChart, FcSupport} from "react-icons/fc";
+import { BiCheckCircle , BiWrench} from "react-icons/bi";
+import { RiScales3Line } from "react-icons/ri"
 
 const Technologies = () =>  (
   <Section id='tech'>
@@ -13,45 +15,97 @@ const Technologies = () =>  (
       I have worked with a range of languages and technologies.
     </SectionText>
     <List>
-      <ListItem>
-        <FcApproval size="3rem"/>
-        <br />
-        <ListContainer>
-          <ListTitle>
-            Strong Languages
-          </ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            Rust
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <FcBarChart size="3rem"/>
+
+
+    <ListItem>
+      <BiCheckCircle size="3rem"/>
+      <br />
+      <ListContainer>
+        <ListTitle>
+          Strong Languages
+        </ListTitle>
+        <ListParagraph>
+          Python
+        </ListParagraph>
+        <ListParagraph>
+          Java
+        </ListParagraph>
+        <ListParagraph>
+          C
+        </ListParagraph>
+        <ListParagraph>
+          JavaScript
+        </ListParagraph>
+        <ListParagraph>
+          OCaml
+        </ListParagraph>
+      </ListContainer>
+    </ListItem>
+
+
+    <ListItem>
+        <RiScales3Line size="3rem"/>
         <br />
         <ListContainer>
           <ListTitle>
           Familiar Languages
           </ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Rust
+          Rust
+        </ListParagraph>
+          <ListParagraph>
+            Ruby
           </ListParagraph>
+          <ListParagraph>
+            HTML
+          </ListParagraph>
+          <ListParagraph>
+            CSS
+          </ListParagraph>
+          <ListParagraph>
+            LaTeX    
+          </ListParagraph>
+      
+          <ListParagraph>
+            x86 Assembly
+          </ListParagraph>
+          <ListParagraph>
+            Lua
+          </ListParagraph>
+          <ListParagraph>
+            Solidity
+          </ListParagraph>
+          
         </ListContainer>
       </ListItem>
+
       <ListItem>
-        <FcSupport size="3rem"/>
+        <BiWrench size="3rem"/>
         <br />
         <ListContainer>
           <ListTitle>
           Tools
           </ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Rust
+            Git  
           </ListParagraph>
+          <ListParagraph>
+            Tableu
+          </ListParagraph>
+          <ListParagraph>
+            Jupyter Notebooks
+          </ListParagraph>
+          <ListParagraph>
+            UNIX Environment
+          </ListParagraph>
+          <ListParagraph>
+            MALTAB
+          </ListParagraph>
+          
+
         </ListContainer>
       </ListItem>
+      
     </List>
   </Section>
 );

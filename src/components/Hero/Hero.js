@@ -14,9 +14,9 @@ const Hero = (props) => (
       <SectionText>
         I am a Junior at the University of Maryland studying Computer Science in and out of the classroom.
       </SectionText>
-      {/* <Button onClick={() => window.location = 'https://www.google.com'}>
-        Learn More
-      </Button> */}
+      <Button onClick={() => window.location = '#about'}>
+        More About Me
+      </Button>
     </LeftSection>
   </Section>
 );

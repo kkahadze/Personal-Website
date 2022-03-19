@@ -43,10 +43,19 @@ const Timeline = () => {
   // }, []);
 
   return (
-    <div>
-      {/* Timeline */}
-    </div>
-  );
+    <Section id="about">
+      <SectionTitle>
+        More About Me
+      </SectionTitle>
+      <SectionText>
+        Hey! I am currently a second-year student at UMD, majoring in Computer Science with a minor in Linguistics. I am  taking Natural Language Processing Data Visualization during this Spring semesrer to improve my knowledge of data science and machine learning. 
+        <br/>
+        <br/>
+        
+        My hobbies outside of academics include Skateboarding, learning foreign languages and reading.
+      </SectionText>
+    </Section>
+    );
 };
 
 export default Timeline;

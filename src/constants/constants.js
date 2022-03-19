@@ -26,15 +26,15 @@ export const projects = [
     visit: 'https://google.com',
     id: 2,
   },
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  // },
+  {
+    title: 'Personal Website',
+    description: "This is a personal website that I built using React and Next.js.",
+    image: '/images/P4.png',
+    tags: ['Javascript','React', 'Next.js'],
+    source: 'https://github.com/kkahadze/Personal-Website',
+    visit: 'https://google.com',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [

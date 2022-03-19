@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link href = "/">
         <a style={{display: "flex", alignItems: "center", color: "white", marginBottom: '20'}}>
-          <BsFillPersonBadgeFill size = "3rem"/> <Span>Konstantine Kahadze</Span>
+          <BsFillPersonBadgeFill size = "3rem"/> 
         </a>
       </Link>
     </Div1>

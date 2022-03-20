@@ -48,7 +48,7 @@ const Timeline = () => {
         More About Me
       </SectionTitle>
       <SectionText>
-        Hey! I am currently a second-year student at UMD, majoring in Computer Science with a minor in Linguistics. I am  taking Natural Language Processing Data Visualization during this Spring semesrer to improve my knowledge of data science and machine learning. 
+        Hey! I am currently a second-year student at UMD, majoring in Computer Science with a minor in Linguistics. I am  taking Natural Language Processing and Data Visualization during this Spring semester to continue pursuing data science and machine learning. 
         <br/>
         <br/>
         

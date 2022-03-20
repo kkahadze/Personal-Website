@@ -107,6 +107,11 @@ const Technologies = () =>  (
       </ListItem>
       
     </List>
+    <br/>
+    <br/>
+    <br/>
+    
+    <figure><embed src="https://wakatime.com/share/@51b336fc-62d0-4256-8451-147afc95d9e8/16361d00-97fb-48ea-9d8d-4c3d51217afc.svg"></embed></figure>
   </Section>
 );
 

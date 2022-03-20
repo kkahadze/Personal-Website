@@ -2,7 +2,8 @@ import React from 'react';
 
 const BackgroundAnimation = () => (
   <div>
-    <svg
+    {/* <figure><embed src="https://wakatime.com/share/@51b336fc-62d0-4256-8451-147afc95d9e8/16361d00-97fb-48ea-9d8d-4c3d51217afc.svg"></embed></figure> */}
+    {/* <svg
       className="BgAnimation__svg"
       viewBox="0 0 602 602"
       fill="none"
@@ -358,7 +359,7 @@ const BackgroundAnimation = () => (
           <stop offset="1" stopColor="#13ADC7" stopOpacity="0" />
         </linearGradient>
       </defs>
-    </svg>
+    </svg> */}
   </div>
 );
 

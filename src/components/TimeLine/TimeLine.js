@@ -52,7 +52,7 @@ const Timeline = () => {
         <br/>
         <br/>
         
-        My hobbies outside of academics include Skateboarding, learning foreign languages and reading.
+        My hobbies outside of academics include Skateboarding, learning languages and reading.
       </SectionText>
     </Section>
     );

@@ -12,7 +12,7 @@ const Hero = (props) => (
         Kahadze
       </SectionTitle>
       <SectionText>
-        I am a Junior at the University of Maryland studying Computer Science in and out of the classroom.
+        I am a Junior at the University of Maryland studying Computer Science with an interest in Natural Language Processing and Web Development.
       </SectionText>
       <Button onClick={() => window.location = '#about'}>
         More About Me

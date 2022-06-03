@@ -62,18 +62,12 @@ const Technologies = () =>  (
           <ListParagraph>
             CSS
           </ListParagraph>
-          <ListParagraph>
-            LaTeX    
-          </ListParagraph>
       
           <ListParagraph>
             x86 Assembly
           </ListParagraph>
           <ListParagraph>
             Lua
-          </ListParagraph>
-          <ListParagraph>
-            Solidity
           </ListParagraph>
           
         </ListContainer>
@@ -88,6 +82,9 @@ const Technologies = () =>  (
           </ListTitle>
           <ListParagraph>
             Git  
+          </ListParagraph>
+          <ListParagraph>
+            LaTeX    
           </ListParagraph>
           <ListParagraph>
             Tableu

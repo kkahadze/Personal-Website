@@ -48,7 +48,9 @@ const Timeline = () => {
         More About Me
       </SectionTitle>
       <SectionText>
-        Hey! I am currently a second-year student at UMD, majoring in Computer Science with a minor in Linguistics. I am  taking Natural Language Processing and Data Visualization during this Spring semester to continue pursuing data science and machine learning. 
+        Hey! I am going into my third-year student at UMD, majoring in Computer Science with and pursuing a minor in Linguistics. 
+        Currently, I work at the Iribe Initaitive for Diversity and Inclusion as a Peer Tutor, and a Summer Instructor at the I4C Summer Academy.
+        I am always working on personal projects and open source work related to Data Visualization, Web Development, Reinforcement Learning and Web Development.
         <br/>
         <br/>
         
